@@ -1,2 +1,3 @@
 # ExplainableAI
 XAI-powered decision support system for Alzheimer’s disease diagnosis using deep learning and interpretable visualizations (Grad-CAM, LIME, SHAP) on medical imaging data.
+Explainable AI for Alzheimer’s Disease Decision Support System — A deep learning–based decision support framework for Alzheimer’s disease classification using MRI/OCT imaging, integrated with explainable AI techniques such as Grad-CAM, LIME, and SHAP. The repository includes model training, evaluation, visualization of predictions, and interpretable heatmaps to support transparent clinical decision-making for distinguishing Alzheimer's disease stages (e.g., AD, CN, and MCI).
